@@ -9,7 +9,7 @@ using System.Web;
 
 namespace ThemeIntegration.Helpers.Helper
 {
-    da
+    data
     public class SessionHelper
     {
         public static string Password
